@@ -100,3 +100,25 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image{
+    width:"15%";
+}
+
+#load-image-button{
+    width:"61%";
+}
+
+#pointer-mode{
+    width:"24%";
+    text-align:centre;
+}
+
+#bean-colour-title{
+    width:"80%";
+}
+
+#bean-colour-box{
+    width:"20%";
+    text-align:left;
+}
